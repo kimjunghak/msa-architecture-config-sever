@@ -9,5 +9,5 @@ spring:
     config:
       server:
         git:
-          uri: https://github.com/kimjunghak/msa-architecture-config-sever.git
-          passphrase: ''
+          uri: https://github.com/kimjunghak/msa-config
+          default-label: main
