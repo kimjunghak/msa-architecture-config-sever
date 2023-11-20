@@ -9,4 +9,5 @@ spring:
     config:
       server:
         git:
-          uri: https://github.com/kimjungha/msa-config.git
+          uri: https://github.com/kimjunghak/msa-architecture-config-sever.git
+          passphrase: ''
